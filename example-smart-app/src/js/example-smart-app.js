@@ -133,5 +133,4 @@
     $('#dob').html(p.birthdate);
     $('#fullname').val(p.fname);
   };
-
 })(window);
